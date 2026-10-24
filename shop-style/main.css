@@ -1,0 +1,106 @@
+
+.top {
+    width: 100%;
+    height: 72px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.top-view {
+    width: 373px;
+    height: 72px;
+    
+}
+
+.image1 {
+    
+    margin-bottom: 12px;
+}
+
+.image-1 {
+    width: 608px;
+    height: 729px;
+    padding-left: 2px;
+}
+
+
+.rect,
+.image {
+    width: 608px;
+    height: 729px;
+    padding-left: 20px;
+}
+.play,
+.mont {
+    width: 204px;
+    height: 76px;
+    display: flex;
+    padding-left: 7px;
+    
+}
+
+
+
+.money {
+    width: 100px;
+    height: 36px;
+    display: flex;
+    justify-content: end;
+    
+    
+}
+.our {
+    width: 608px;
+    height: 72px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    
+    
+}
+
+.picture {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+
+.button6 {
+    display: flex;
+    gap: 20px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+}
+.button5 {
+    width: 608px;
+    height: 58px;
+    display: flex;
+    padding-left: 20px;
+    gap: 20px;
+}
+.buttons,
+.buttons2 {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    
+    width: 187px;
+    height: 54px;
+
+}
+
+.buttons1,
+.buttons3 {
+    background-color: white;
+    border: 1px solid black;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 50px;
+    width: 187px;
+    height: 54px;
+}

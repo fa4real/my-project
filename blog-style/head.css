@@ -1,0 +1,105 @@
+.header{
+    
+    width: 100%;
+    height: 110vh;
+    background-size: cover;
+    background-image: url("image\ 9.png");
+    margin-bottom: 50px;
+    padding-top: 70px;
+    
+}
+
+.head-bar {
+    display: flex;
+    justify-content: space-between;
+    width: 1250px;
+    height: 46px;
+    margin-top: 7px;
+    
+    
+}
+.home {
+    display: flex;
+    width: 617px;
+    height: 46px;
+    margin-left: 70px;
+}
+nav{
+    display: flex;
+    gap: 20px;
+    
+    font-size: 16px;
+}
+
+.splash {
+    height: 20px;
+    margin-left: 20px;
+    margin-right: 40px;
+}
+.search-bar {
+    display: flex;
+    width: 617px;
+    height: 46px;
+    justify-content: end;
+}
+.vector-search {
+    
+    height: 15px;
+}
+
+
+
+.outfit {
+    background-color: transparent;
+    color: white;
+    
+    
+    width: 722px;
+    height: 390px;
+    margin-top: 20px;
+    margin-left: 100px;
+    display: flex;
+    padding-top: 20px;
+    flex-direction: column;
+}
+.make {
+    width: 660px;
+    height: 84px;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 64px;
+    line-height: 60px;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+.shop-button {
+    width: 241px;
+    height: 64px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    font-family: Poppins;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 24px;
+    
+    margin-top: 150px;
+
+    
+    gap: 10px;
+    
+    padding-top: 16px;
+    padding-right: 32px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+
+
+
+}
+.low {
+    width: 600px;
+    height: 84px;
+    font-size: 20px;
+    line-height: 30px;
+}

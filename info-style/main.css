@@ -1,0 +1,122 @@
+.contain {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+    padding-bottom: 40px;
+    padding-top: 100px;
+}
+.lov {
+    display: flex;
+    gap: 20px;
+}
+.check-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.check {
+    padding-bottom: 10px;
+    font-size: 12px;
+}
+.lov1 {
+    width: 26px;
+    height: 26px;
+
+}
+.love {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px
+}
+.love-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.container {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    margin-bottom: 50px;
+    
+    
+}
+
+.white-box {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-left: 260px;
+    padding-bottom: 20px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+select{
+    width: 820px;
+    height: 64px;
+    border: 1px solid rgb(207, 205, 205);
+    font-size: 16px;
+}
+
+.name-1  {
+    width: 820px;
+    height: 62px;
+    font-size: 16px;
+    color: black;
+    padding-left: 10px;
+    border: 1px solid rgb(207, 205, 205);
+}
+.info  {
+    display: flex;
+    width: 820px;
+    height: 62px;
+    gap: 20px;
+}
+.name-2 {
+    width: 399.5px;
+    height: 65px;
+    font-size: 16px;
+    color: black;
+    padding-left: 10px;
+    border: 1px solid rgb(207, 205, 205);
+}
+.sub {
+    display: flex;
+    justify-content: end;
+}
+.address {
+    display: flex;
+    gap: 5px;
+    
+}
+.lop {
+    width: 23px;
+    height: 22px;
+}
+.save {
+    width: 274px;
+    height: 24px;
+}
+.submit{
+    width: 233px;
+    height: 64px;
+    font-size: 20px;
+   
+    color: white;
+    background-color: black;
+    border: none;
+}
+
+
+

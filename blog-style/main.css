@@ -1,0 +1,64 @@
+.art,
+.trem {
+    width: 334px;
+    height: 64px;
+    
+}
+.art{
+    padding-left: 20px;
+}
+.trem {
+    margin-bottom: 50px;
+}
+
+.high {
+    width: 397px;
+    height: 646px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    
+}
+.mage {
+    width: 397px;
+    height: 399px;
+    display: flex;
+    
+    margin-bottom: 20px;
+}
+.go {
+    width: 100%;
+}
+.pool {
+    width: 396px;
+    height: 221px;
+    padding-left: 5px;
+    gap: 20px;
+}
+.flow {
+    width: 297px;
+    height: 36px;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.fool {
+    width: 111px;
+    height: 24px;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.fool-1 {
+    width: 396px;
+    height: 121px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.glory {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}

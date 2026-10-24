@@ -1,0 +1,39 @@
+.head-bar {
+    display: flex;
+    justify-content: space-between;
+    width: 1250px;
+    height: 46px;
+    margin-top: 7px;
+    
+    
+}
+.home {
+    display: flex;
+    width: 617px;
+    height: 46px;
+    margin-left: 70px;
+    
+}
+nav{
+    display: flex;
+    gap: 20px;
+    
+    font-size: 16px;
+}
+
+.splash {
+    height: 20px;
+    margin-left: 20px;
+    margin-right: 40px;
+}
+.search-bar {
+    display: flex;
+    width: 617px;
+    height: 46px;
+    justify-content: end;
+    
+}
+.vector-search {
+    
+    height: 15px;
+}

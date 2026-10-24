@@ -1,0 +1,66 @@
+.container {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    
+    
+}
+.white-box {
+    margin-bottom: 30px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.name-1 input{
+    width: 818px;
+    height: 62px;
+    font-size: 16px;
+    color: black;
+    padding-left: 10px;
+    border: 1px solid rgb(207, 205, 205);
+}
+.message  {
+    width: 818px;
+    height: 230px;
+    font-size: 16px;
+    padding-left: 10px;
+    border: 1px solid rgb(207, 205, 205);
+}
+.sub {
+    display: flex;
+    justify-content: end;
+}
+.submit{
+    width: 233px;
+    height: 64px;
+    font-size: 24px;
+   
+    color: white;
+    background-color: black;
+    border: none;
+}
+.cons {
+   display: flex;
+   
+}
+
+.address {
+    width: 350px;
+    height: 100px;
+    gap: 10px;
+    padding-left: 100px;
+    padding-bottom: 30px;
+}
+.ress {
+    font-size: 20px;
+}
+.web {
+    font-size: 12px;
+}
+
