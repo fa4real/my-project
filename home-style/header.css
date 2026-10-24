@@ -14,6 +14,7 @@
     width: 1235px;
     height: 46px;
     padding-top: 40px;
+    flex-shrink: 0;
     
 }
 .home {
